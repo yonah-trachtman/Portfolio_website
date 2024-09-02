@@ -46,6 +46,15 @@ footer {
     margin-top: 0px;
 }
 
+.fa-brands {
+    margin-right: 2vw;
+}
+
+.contactInfo {
+color: blue;
+border: 0.2vh solid blue;
+}
+
 .label {
     display: flex;
     justify-content: center;
